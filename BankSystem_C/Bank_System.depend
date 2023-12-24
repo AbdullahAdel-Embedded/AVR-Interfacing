@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1686260903 source:f:\0_nti\bank_system\main.c
+	"declerations.h"
+	<stdio.h>
+	<stdlib.h>
+
+1686257405 f:\0_nti\bank_system\declerations.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1686260903 source:f:\0_nti\bank_system\functions.c
+	"declerations.h"
+	"user_names.h"
+
+1686244436 f:\0_nti\bank_system\user_names.h
+
